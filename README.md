@@ -1,5 +1,5 @@
 
-# Rock vs Mine Prediction using SONAR Data
+# SONARSENSE - AI-DRIVEN UNDERWATER OBJECT CLASSIFICATION
 
 ## About
 
