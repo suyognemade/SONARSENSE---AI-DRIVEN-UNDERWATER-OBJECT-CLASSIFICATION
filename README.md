@@ -44,9 +44,6 @@ Sonar data in a csv file is taken for training and testing purpose. Data preproc
 - Model evaluation using input data was also done in this project.
 
 
-## Acknowledgements
 
- - [Sonar Rock vs Mine Prediction](https://www.youtube.com/watch?v=fiz1ORTBGpY)
- - [Prediction of Underwater Surface Target through SONAR](https://www.jetir.org/papers/JETIR1907H24.pdf)
  
 
